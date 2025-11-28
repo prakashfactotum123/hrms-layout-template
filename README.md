@@ -166,12 +166,12 @@ The main layout component that combines all parts together.
 - Main Content: Maximum width 1280px (centered)
 
 ### Tablet (768px - 1024px)
-- Sidebar: Collapsible
+- Sidebar: collapsible
 - Header: Full width
 - Stats Cards: 2 columns
 
 ### Mobile (< 768px)
-- Sidebar: Hidden by default (hamburger menu)
+- Sidebar: visible
 - Header: Compact (hides user name)
 - Stats Cards: 1 column
 - Quick Actions: 2 columns
@@ -329,7 +329,7 @@ For team use only.
 
 ---
 
-**Created by:** [Your Name]  
+**Created by:** Prakash 
 **Date:** November 28, 2024  
 **Version:** 1.0.0  
 **Project:** FactoAtlas HRMS Employee Portal
